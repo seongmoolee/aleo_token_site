@@ -11,7 +11,7 @@ export const TransferPublic = () => {
   const handleTransfer = async () => {
     
     const transfer_public_transition = new Transition(
-      "token_112233.aleo",
+      "token_37162313.aleo",
       "transfer_public",
       [
         toAddr, amount.toString() + "u64"

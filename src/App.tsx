@@ -39,7 +39,7 @@ export const App = () => {
   return (
     <div className="container d-flex justify-content-center align-items-center vh-100">
       <div className="flex-column rounded border-2 p-4 bg-light shadow">
-        <h1 className="text-center">Token_112233.aleo</h1>
+        <h1 className="text-center">token_37162313.aleo</h1>
 
         <WalletProvider
           wallets={wallets}

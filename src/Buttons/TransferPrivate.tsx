@@ -27,7 +27,7 @@ export const TransferPrivate = () => {
       const test_tx = Transaction.createTransaction(
         publicKey!,
         WalletAdapterNetwork.Testnet,
-        'token_112233.aleo',
+        'token_37162313.aleo',
         'transfer_private',
         inputs,
         1000000,

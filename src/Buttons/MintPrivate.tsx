@@ -10,7 +10,7 @@ export const MintPrivate = () => {
 
   const handleMintPublic = async () => {
     const mint_public_transition = new Transition(
-      "token_112233.aleo",
+      "token_37162313.aleo",
       "mint_private",
       [receiverAddress, amount.toString() + "u64"]
     );
